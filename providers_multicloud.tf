@@ -4,5 +4,5 @@ provider "azurerm" {
 }
 
 provider "aws" {
-    region ="apsoutheast=2"
+     region = "ap-south-2"
 }
