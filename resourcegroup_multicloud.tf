@@ -7,7 +7,7 @@ resource "azurerm_resource_group" "myresourcegroup" {
 
 
 resource "aws_s3_bucket" "mybucket" {
-  bucket = "test bucket"
+  bucket = "kloudconnect-418"
 
 }
 
